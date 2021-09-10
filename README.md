@@ -1,6 +1,5 @@
 # ExpressServer
-- Express, Passport, LowDB, Bcrypt, Session-Store
-- All you need to do is 'npm install'
+- Dependency : Express, Passport, MySQL, Bcrypt, Express-Session, Dotenv
 - Default Name Of Environment Variable is ...
   => SESSION_SECRET (for session)
   => DB_HOST (host name)
